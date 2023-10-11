@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **CV, ML, telegram Bot and cats**
 
-- 📫 How to reach me **https://t.me/vika_viktorya_Pa**
+- 📫 How to reach me [telegram] (https://t.me/vika_viktorya_Pa)
 
 - ⚡ Fun fact **I really like hacking**
 

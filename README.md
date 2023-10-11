@@ -1,6 +1,6 @@
 [![MasterHead](https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif)](https:/vikaska031.io)
 <h1 align="center">Hi 🐱, I'm Viktorya</h1>
-<img align="right" alr="Coding" width="400" scr="https://i.pinimg.com/originals/84/8a/3a/848a3a26c5c412b816a24fa50ca32ab4.gif">
+<img align="right" alr="Coding" width="400" scr="https://i.gifer.com/Si7T.gif">
 <h3 align="center">A Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaska031&label=Profile%20views&color=0e75b6&style=flat" alt="vikaska031" /> </p>

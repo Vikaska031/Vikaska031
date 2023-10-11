@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![MasterHead](https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif)](https:/vikaska031.io)
 <h1 align="center">Hi 🐱, I'm Viktorya</h1>
 <img algn="right" alt="Coding" width ="400" scr="https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif">
 <h3 align="center">A Data Scientist</h3>

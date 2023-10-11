@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 🐱, I'm Viktorya</h1>
-<h3 align="center">A Data Scientist</h3>
+<img algn="right" alt="Coding" width ="400" scr="https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif">
+h3 align="center">A Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaska031&label=Profile%20views&color=0e75b6&style=flat" alt="vikaska031" /> </p>
 
